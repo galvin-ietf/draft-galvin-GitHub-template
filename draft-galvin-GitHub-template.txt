@@ -2,7 +2,7 @@
 
 
 
-WG Working Group                                               J. Galvin
+Network Working Group                                          J. Galvin
 Internet-Draft                                    Your Organization Here
 Intended status: Informational                          15 November 2026
 Expires: 19 May 2027
@@ -13,23 +13,19 @@ Expires: 19 May 2027
 
 Abstract
 
-   TODO Abstract
+   This is an abstract for my GitHub template.
 
 About This Document
 
    This note is to be removed before publishing as an RFC.
 
-   The latest revision of this draft can be found at
-   https://example.com/LATEST.  Status information for this document may
-   be found at https://datatracker.ietf.org/doc/draft-galvin-GitHub-
-   template/.
-
-   Discussion of this document takes place on the WG Working Group
-   mailing list (mailto:WG@example.com), which is archived at
-   https://example.com/WG.
+   The latest revision of this draft can be found at https://galvin-
+   ietf.github.io/draft-galvin-GitHub-template/draft-galvin-GitHub-
+   template.html.  Status information for this document may be found at
+   https://datatracker.ietf.org/doc/draft-galvin-GitHub-template/.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/USER/REPO.
+   https://github.com/galvin-ietf/draft-galvin-GitHub-template.
 
 Status of This Memo
 
