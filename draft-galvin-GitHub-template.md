@@ -19,11 +19,11 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
+title: "GitHub Template Testing"
 abbrev: "TODO - Abbreviation"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-galvin-GitHub-template-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -45,9 +45,9 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
+    fullname: James Galvin
     organization: Your Organization Here
-    email: your.email@example.com
+    email: galvin@elistx.com
 
 normative:
 
